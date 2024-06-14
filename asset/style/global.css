@@ -1,0 +1,88 @@
+.body {
+    background-color: #806a5b;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.titulo {
+    text-align: center;
+    background-color: #a19e8a;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    height: 50px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around
+}
+
+.titulocc {
+    text-align: center;
+}
+
+.imagenuno {
+    display: flex;
+    justify-content: center;
+    opacity: 1;
+    background-color: #86836d;
+    width: 1200px;
+}
+
+.caracteristicass {
+    background-color: #a19e8a;
+    padding-bottom: 25px;
+    padding-top: 25px;
+
+}
+
+.textoimagen {
+    background-color: #86836d;
+    text-align: left;
+    display: flex;
+    justify-content: space-around;
+}
+
+.textodeimagen {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+.tamano400 {
+    width: 380px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.tresiconos {
+    display: flex;
+    justify-content: space-evenly;
+    width: "100px";
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 200px;
+}
+
+.tresperritos {
+    display: flex;
+    justify-content: space-around;
+    background-color: #86836d;
+}
+
+.cuerpo {
+    width: 1200px;
+}
+
+.footer{
+    text-align: center;
+    background-color: #a19e8a;
+    padding: 20px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
